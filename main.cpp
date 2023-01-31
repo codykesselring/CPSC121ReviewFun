@@ -16,4 +16,5 @@ int main() {
   cout << "Min: " << min << endl << "Max: " << max<< endl;
   //task 1: define and call a funciton to find and reutnr the min and max number in the vector
   //task 2: convert this to 3 file format
+  //modify
 }
